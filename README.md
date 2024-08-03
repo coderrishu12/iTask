@@ -1,19 +1,3 @@
-Here's a `README.md` file for your GitHub repository that provides an overview and usage details for the project:
-
-```markdown
-# iTask - Todo List Manager
-
-iTask is a simple React application that allows you to manage your todo list efficiently. You can add, edit, delete, and mark todos as completed. The app also provides the option to show or hide completed todos.
-
-## Features
-
-- **Add Todos:** Quickly add new todos to your list.
-- **Edit Todos:** Modify existing todos.
-- **Delete Todos:** Remove todos from your list.
-- **Toggle Completed:** Mark todos as completed or not.
-- **Show/Hide Completed:** Toggle the visibility of completed todos.
-- **Persist Data:** Todos are saved in local storage, so your data persists across page reloads.
-
 ## Technologies Used
 
 - **React:** JavaScript library for building user interfaces.
